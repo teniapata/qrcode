@@ -1,15 +1,12 @@
-
-import './App.css'
-import QrCode from './component/QrCode'
+import "./App.css";
+import QrCode from "./component/Qrcode";
 
 function App() {
-  
   return (
     <>
-      
-       <QrCode/>
+      <QrCode />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
